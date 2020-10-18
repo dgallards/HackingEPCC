@@ -14,6 +14,17 @@ Además os comparto algunos canales de Youtube para aprender a hacer cositas e i
 
 En resumen,  sería aprender por nuestra cuenta y luego ponerlo en común, por ejemplo, si nosotros sabemos de algo podemos confeccionar nosotros practicas en .pdf y pasarlas por el grupo para que otros puedan realizarlas.
 
+GRUPO DE TELEGRAM
+-----------------
+
+* https://bit.ly/2IopTJD
+
+LIBROS
+------
+
+* https://bit.ly/3jei5Xz 
+
+
 Grupo de cursos gratuitos:
 --------------------------
 
@@ -43,6 +54,8 @@ Aprende en Youtube (programación y/o hacking):
 * https://cs50.harvard.edu/
 
 * https://www.edureka.co/
+
+* https://www.netacad.com
 
 * https://archive.org/details/Hak5
 
