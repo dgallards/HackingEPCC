@@ -29,7 +29,6 @@ LIBROS
 
 * https://bit.ly/3jei5Xz 
 
-
 Grupo de cursos gratuitos:
 --------------------------
 
@@ -38,6 +37,13 @@ Grupo de cursos gratuitos:
 * https://t.me/UdemyGratis — Menos cursos —
 
 * https://t.me/michollo — A veces publican muchos cursos de golpe, aparte de otras cosas —
+
+Plataformas de CTF
+------------------
+
+* https://www.picoctf.org/
+
+* https://tryhackme.com/
 
 Aprende en Youtube (programación y/o hacking):
 ----------------------------------------------
