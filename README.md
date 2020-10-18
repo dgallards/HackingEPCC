@@ -40,6 +40,8 @@ https://cs50.harvard.edu/
 
 https://www.edureka.co/
 
+https://archive.org/details/Hak5
+
 Canales de youtube (hacking ético):
 
 https://www.youtube.com/c/HackerSploit
