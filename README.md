@@ -1,6 +1,7 @@
 # HackingEPCC
 
 Bienvenido/a al grupo e Hacking ético de la Escuela Politécnica de Cáceres
+==========================================================================
 
 La filosofía de este grupo es de ser un poco autónomo, aprender por nuestra cuenta y autogestionarnos. 
 
@@ -14,6 +15,7 @@ Además os comparto algunos canales de Youtube para aprender a hacer cositas e i
 La filosofía de este grupo sería aprender por nuestra cuenta y luego ponerlo en común, por ejemplo, si nosotros sabemos de algo podemos confeccionar nosotros practicas en pdf y pasarlas por el grupo para que otros puedan realizarlas.
 
 Grupo de cursos gratuitos:
+--------------------------
 https://t.me/udemyforu  —— El mejor, muchos cursos—
 
 https://t.me/UdemyGratis — Menos cursos —
@@ -21,6 +23,7 @@ https://t.me/UdemyGratis — Menos cursos —
 https://t.me/michollo — A veces publican muchos cursos de golpe, aparte de otras cosas —
 
 Aprende en Youtube (programación y/o hacking):
+----------------------------------------------
 
 https://www.youtube.com/user/edurekaIN
 
@@ -89,6 +92,7 @@ https://www.youtube.com/channel/UC4oWU8Mtc2OJr9vV-Zjw8IA
 https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g
 
 Divulgación hacker:
+-------------------
 
 https://www.youtube.com/c/ExploiteeRs
 
