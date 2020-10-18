@@ -15,8 +15,10 @@ La filosofía de este grupo sería aprender por nuestra cuenta y luego ponerlo e
 
 Grupo de cursos gratuitos:
 https://t.me/udemyforu  —— El mejor, muchos cursos—
-https://t.me/UdemyGratis —- Menos cursos —-
-https://t.me/michollo —- A veces publican muchos cursos de golpe, aparte de otras cosas —-
+
+https://t.me/UdemyGratis — Menos cursos —
+
+https://t.me/michollo — A veces publican muchos cursos de golpe, aparte de otras cosas —
 
 Aprende en Youtube (programación y/o hacking):
 
