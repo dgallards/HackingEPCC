@@ -19,6 +19,11 @@ GRUPO DE TELEGRAM
 
 * https://bit.ly/2IopTJD
 
+TWITTER
+-------
+
+* https://twitter.com/HackingEPCC
+
 LIBROS
 ------
 
