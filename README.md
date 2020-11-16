@@ -29,6 +29,11 @@ LIBROS
 
 * https://bit.ly/3jei5Xz 
 
+GITHUBs útiles:
+--------------
+
+* https://github.com/trimstray/the-book-of-secret-knowledge
+
 Grupo de cursos gratuitos:
 --------------------------
 
@@ -57,6 +62,8 @@ Aprende en Youtube (programación y/o hacking):
 * https://www.youtube.com/c/FaztTech
 
 * https://www.youtube.com/c/TheCodingTrain
+
+* https://www.youtube.com/watch?v=ovMQ28RlfHE&feature=youtu.be&list=PLUnSepD40W-kBcRhEOcroHwAu7ztCvKM9&ab_channel=awakengaming
 
 **(también tienen una web con cursos)**
 
