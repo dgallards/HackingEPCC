@@ -43,6 +43,30 @@ Grupo de cursos gratuitos:
 
 * https://t.me/michollo — A veces publican muchos cursos de golpe, aparte de otras cosas —
 
+Grupos de Telegram útiles:
+--------------------------
+
+* https://t.me/AUTOSUFICIENTES
+
+* https://t.me/infosec
+
+Herramientas útiles:
+--------------------
+
+* https://github.com/truongkma/ctf-tools
+
+* https://osintframework.com/
+
+* https://hackthematrixforlife.wordpress.com/ctftools/
+
+* https://github.com/zardus/ctf-tools
+
+* https://github.com/MrMugiwara/CTF-Tools
+
+* https://github.com/apsdehal/awesome-ctf
+
+* https://devhints.io
+
 Plataformas de CTF
 ------------------
 
