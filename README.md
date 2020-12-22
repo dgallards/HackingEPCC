@@ -24,6 +24,11 @@ TWITTER
 
 * https://twitter.com/HackingEPCC
 
+SOFTWARE DE FABRICACIÓN PROPIA (made in HackingEPCC)
+-------------------------------
+
+* https://github.com/ElJaviLuki/amigo-baboso
+
 LIBROS
 ------
 
