@@ -1,6 +1,7 @@
 # HackingEPCC
 
-Bienvenido/a al grupo de Hacking ético de la Escuela Politécnica de Cáceres
+
+Bienvenid@ al grupo de Hacking ético de la Escuela Politécnica de Cáceres
 ==========================================================================
 
 La filosofía de este grupo es de ser un poco autónomo, aprender por nuestra cuenta y autogestionarnos. 
@@ -12,7 +13,7 @@ Disponemos de documentación, aulas y demás. Si quieres enseñar algo, solo tie
 
 Además os comparto algunos canales de Youtube para aprender a hacer cositas e interesarnos. 
 
-En resumen,  sería aprender por nuestra cuenta y luego ponerlo en común, por ejemplo, si nosotros sabemos de algo podemos confeccionar nosotros practicas en .pdf y pasarlas por el grupo para que otros puedan realizarlas.
+En resumen, sería aprender por nuestra cuenta y luego ponerlo en común, por ejemplo, si nosotros sabemos de algo podemos confeccionar nosotros practicas en .pdf y pasarlas por el grupo para que otros puedan realizarlas.
 
 GRUPO DE TELEGRAM
 -----------------
